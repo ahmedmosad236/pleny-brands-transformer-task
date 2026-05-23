@@ -1,0 +1,11 @@
+Case Number,Brand Name,Year Founded,Headquarters,Number of Locations,Test Purpose,Year Category,Location Category,Special Notes
+1,Kemmer Group,1942,"Fort Smith, Switzerland",205,Mid-range year with moderate locations,20th Century,Medium Range,Tests typical modern brand
+2,"Larkin, Emmerich and Larson",1781,"Loychester, Virgin Islands",195,Old establishment from 18th century,18th Century,Medium Range,Tests historical brand with multiple founders
+3,Flatley - Powlowski,1638,"West Josefina, Myanmar",99,Near minimum year boundary,17th Century,Low Range,Tests early establishment near 1600 limit
+4,Kuhn LLC,1799,"Hermanview, Samoa",340,18th century with high locations,18th Century,High Range,Tests old brand with large scale
+5,Wehner - Quigley,1660,"Anitaberg, Saint Barthélemy",409,17th century with very high locations,17th Century,High Range,Tests very old brand with extensive network
+6,Brakus Inc,2015,"New York, USA",50,Modern brand from 21st century,21st Century,Low Range,Tests recent establishment
+7,Schmidt and Sons,1850,"London, United Kingdom",120,19th century with medium locations,19th Century,Medium Range,Tests family business naming pattern
+8,O'Connell Group,1920,"Paris, France",280,Early 20th century brand,20th Century,High Range,Tests post-WWI establishment
+9,Hamill LLC,1600,"Tokyo, Japan",1,Minimum year and minimum locations,17th Century,Minimum,Tests lower boundary limits (1600 year and 1 location)
+10,Zieme Corporation,2026,"Dubai, UAE",500,Current year with maximum locations,21st Century,Maximum,Tests upper boundary limits (current year and 500 locations)

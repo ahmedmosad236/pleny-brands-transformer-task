@@ -1,0 +1,182 @@
+[
+  {
+    "_id": "66069ff93007b006635c024b",
+    "brandName": "Refined Granite Towels",
+    "yearFounded": 1600,
+    "headquarters": "Lemkeland",
+    "numberOfLocations": 1,
+    "updatedAt": "2026-05-23T09:31:26.792Z"
+  },
+  {
+    "_id": "66069ff93007b006635c024d",
+    "yearFounded": 1600,
+    "headquarters": "West Mylesboro",
+    "numberOfLocations": 1,
+    "brandName": "Licensed Concrete Tuna",
+    "updatedAt": "2026-05-23T09:31:27.051Z"
+  },
+  {
+    "_id": "66069ff93007b006635c024a",
+    "brandName": "Oriental Plastic Pants",
+    "yearFounded": 1970,
+    "headquarters": "Wardfort",
+    "numberOfLocations": 1,
+    "updatedAt": "2026-05-23T09:31:27.302Z"
+  },
+  {
+    "_id": "66069ff93007b006635c0247",
+    "brandName": "Breitenberg, Greenholt and Ledner",
+    "yearFounded": 1982,
+    "headquarters": "Fort Lenna",
+    "numberOfLocations": 1000,
+    "updatedAt": "2026-05-23T09:31:27.551Z"
+  },
+  {
+    "_id": "66069ff93007b006635c0245",
+    "brandName": "Ward, Hand and Ortiz",
+    "headquarters": "Jastside",
+    "numberOfLocations": 2132,
+    "updatedAt": "2026-05-23T09:31:27.803Z",
+    "yearFounded": 1970
+  },
+  {
+    "_id": "66069ff93007b006635c0249",
+    "brandName": "Gorgeous Granite Pizza",
+    "headquarters": "Jonesborough",
+    "numberOfLocations": 1,
+    "updatedAt": "2026-05-23T09:31:28.056Z",
+    "yearFounded": 1980
+  },
+  {
+    "_id": "66069ff93007b006635c024c",
+    "brandName": "Corkery Inc",
+    "yearFounded": 1935,
+    "numberOfLocations": 9200,
+    "headquarters": "DuBuqueburgh",
+    "updatedAt": "2026-05-23T09:31:28.306Z"
+  },
+  {
+    "_id": "66069ff93007b006635c024e",
+    "brandName": "Generic Cotton Pizza",
+    "yearFounded": 1600,
+    "headquarters": "North Ralphport",
+    "numberOfLocations": 1,
+    "updatedAt": "2026-05-23T09:31:28.559Z"
+  },
+  {
+    "_id": "66069ff93007b006635c0248",
+    "brandName": "Modern Granite Fish",
+    "yearFounded": 1970,
+    "headquarters": "Kundebury",
+    "numberOfLocations": 1,
+    "updatedAt": "2026-05-23T09:31:28.811Z"
+  },
+  {
+    "_id": "66069ff93007b006635c0246",
+    "brandName": "Ergonomic Frozen Bacon",
+    "yearFounded": 1600,
+    "headquarters": "Gavinstead",
+    "numberOfLocations": 1,
+    "updatedAt": "2026-05-23T09:31:29.062Z"
+  },
+  {
+    "_id": "6a1173f1dc77e444fa28ffcd",
+    "brandName": "Lehner, Shields and Johnson",
+    "yearFounded": 1769,
+    "headquarters": "Lelaville, Antigua and Barbuda",
+    "numberOfLocations": 107,
+    "__v": 0,
+    "createdAt": "2026-05-23T09:31:29.316Z",
+    "updatedAt": "2026-05-23T09:31:29.316Z"
+  },
+  {
+    "_id": "6a1173f1dc77e444fa28ffce",
+    "brandName": "Muller Inc",
+    "yearFounded": 1792,
+    "headquarters": "New Homer, Botswana",
+    "numberOfLocations": 49,
+    "__v": 0,
+    "createdAt": "2026-05-23T09:31:29.317Z",
+    "updatedAt": "2026-05-23T09:31:29.317Z"
+  },
+  {
+    "_id": "6a1173f1dc77e444fa28ffcf",
+    "brandName": "Nitzsche, Blick and Veum-Volkman",
+    "yearFounded": 1813,
+    "headquarters": "Mooreburgh, Argentina",
+    "numberOfLocations": 81,
+    "__v": 0,
+    "createdAt": "2026-05-23T09:31:29.317Z",
+    "updatedAt": "2026-05-23T09:31:29.317Z"
+  },
+  {
+    "_id": "6a1173f1dc77e444fa28ffd0",
+    "brandName": "Cormier-Oberbrunner - Carter",
+    "yearFounded": 1671,
+    "headquarters": "Williamsonfurt, Åland Islands",
+    "numberOfLocations": 30,
+    "__v": 0,
+    "createdAt": "2026-05-23T09:31:29.317Z",
+    "updatedAt": "2026-05-23T09:31:29.317Z"
+  },
+  {
+    "_id": "6a1173f1dc77e444fa28ffd1",
+    "brandName": "Hoppe, Lemke and Abshire",
+    "yearFounded": 2006,
+    "headquarters": "Loriworth, Antigua and Barbuda",
+    "numberOfLocations": 83,
+    "__v": 0,
+    "createdAt": "2026-05-23T09:31:29.317Z",
+    "updatedAt": "2026-05-23T09:31:29.317Z"
+  },
+  {
+    "_id": "6a1173f1dc77e444fa28ffd2",
+    "brandName": "Monahan LLC",
+    "yearFounded": 1833,
+    "headquarters": "North Litzymouth, Chad",
+    "numberOfLocations": 321,
+    "__v": 0,
+    "createdAt": "2026-05-23T09:31:29.317Z",
+    "updatedAt": "2026-05-23T09:31:29.317Z"
+  },
+  {
+    "_id": "6a1173f1dc77e444fa28ffd3",
+    "brandName": "Hegmann and Sons",
+    "yearFounded": 1835,
+    "headquarters": "Taunton, Congo",
+    "numberOfLocations": 493,
+    "__v": 0,
+    "createdAt": "2026-05-23T09:31:29.317Z",
+    "updatedAt": "2026-05-23T09:31:29.317Z"
+  },
+  {
+    "_id": "6a1173f1dc77e444fa28ffd4",
+    "brandName": "Greenholt - Fay",
+    "yearFounded": 1877,
+    "headquarters": "Herbertcester, Suriname",
+    "numberOfLocations": 494,
+    "__v": 0,
+    "createdAt": "2026-05-23T09:31:29.317Z",
+    "updatedAt": "2026-05-23T09:31:29.317Z"
+  },
+  {
+    "_id": "6a1173f1dc77e444fa28ffd5",
+    "brandName": "Beer, Flatley and Greenfelder",
+    "yearFounded": 1969,
+    "headquarters": "West Evelyn, Northern Mariana Islands",
+    "numberOfLocations": 304,
+    "__v": 0,
+    "createdAt": "2026-05-23T09:31:29.317Z",
+    "updatedAt": "2026-05-23T09:31:29.317Z"
+  },
+  {
+    "_id": "6a1173f1dc77e444fa28ffd6",
+    "brandName": "Wisozk - Dickens",
+    "yearFounded": 1608,
+    "headquarters": "Murrayburgh, Taiwan",
+    "numberOfLocations": 312,
+    "__v": 0,
+    "createdAt": "2026-05-23T09:31:29.318Z",
+    "updatedAt": "2026-05-23T09:31:29.318Z"
+  }
+]
