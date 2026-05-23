@@ -25,11 +25,7 @@ export class TransformService {
       try {
         const updatedBrand: any = {};
 
-        /**
-         * =========================
-         * brandName
-         * =========================
-         */
+        
         if (brand.brandName && typeof brand.brandName === 'string') {
           updatedBrand.brandName = brand.brandName.trim();
         } else if (brand.brand?.name) {
@@ -38,11 +34,7 @@ export class TransformService {
           updatedBrand.brandName = 'Unknown Brand';
         }
 
-        /**
-         * =========================
-         * yearFounded
-         * =========================
-         */
+      
         let yearFounded =
           brand.yearFounded ??
           brand.yearCreated ??
@@ -60,11 +52,7 @@ export class TransformService {
 
         updatedBrand.yearFounded = yearFounded;
 
-        /**
-         * =========================
-         * headquarters
-         * =========================
-         */
+        
         const headquarters =
           brand.headquarters ?? brand.hqAddress;
 
@@ -72,11 +60,7 @@ export class TransformService {
           ? String(headquarters).trim()
           : 'Unknown Headquarters';
 
-        /**
-         * =========================
-         * numberOfLocations
-         * =========================
-         */
+        
         let numberOfLocations = Number(
           brand.numberOfLocations,
         );
@@ -90,19 +74,10 @@ export class TransformService {
 
         updatedBrand.numberOfLocations = numberOfLocations;
 
-        /**
-         * =========================
-         * Validate using mongoose
-         * =========================
-         */
         const validatedBrand = new this.brandModel(updatedBrand);
         await validatedBrand.validate();
 
-        /**
-         * =========================
-         * Update same document
-         * =========================
-         */
+       
         await this.brandModel.updateOne(
           { _id: brand._id },
           {
